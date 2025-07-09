@@ -3,6 +3,10 @@ Search an open source for scientific metadata to search for research papers, bio
 
 pip install streamlit requests
 
+Access via: https://future-omics-bioinformatics-research-paper-search-nwvav6dkynfx.streamlit.app/
+
+
+
 ![image](https://github.com/user-attachments/assets/a221e0f2-b5d8-4d40-abe7-44eaac43fb24)
 
 
