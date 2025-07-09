@@ -6,6 +6,10 @@ pip install streamlit requests
 Access via: https://future-omics-bioinformatics-research-paper-search-nwvav6dkynfx.streamlit.app/
 
 
+https://github.com/user-attachments/assets/a5d1b322-17fc-4e55-985e-e773e669c8b6
+
+
+
 
 ![image](https://github.com/user-attachments/assets/60b33145-1386-41a6-a97e-07b4eb2199cc)
 
