@@ -3,7 +3,7 @@ import requests
 
 st.set_page_config(page_title="Bioinformatics Paper Search", layout="wide")
 
-st.title("🔬 Bioinformatics Research Paper Search🤖")
+st.title("🔬 Biomedical and Bioinformatics Research Paper Search🤖")
 st.write("Search scientific papers using keywords (e.g., CRISPR, genomics, RNA-seq, etc.)")
 
 # Input section
