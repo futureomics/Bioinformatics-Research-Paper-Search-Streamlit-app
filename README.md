@@ -8,11 +8,6 @@ Access via: https://future-omics-bioinformatics-research-paper-search-nwvav6dkyn
 
 
 
-![image](https://github.com/user-attachments/assets/60b33145-1386-41a6-a97e-07b4eb2199cc)
-
-
-
-![image](https://github.com/user-attachments/assets/260c996f-3427-4457-9abd-bfa1dd9b032c)
 
 
 
@@ -20,7 +15,10 @@ Access via: https://future-omics-bioinformatics-research-paper-search-nwvav6dkyn
 
 
 
-https://github.com/user-attachments/assets/52ed2654-e5e7-427c-965a-6d69806a4df6
+
+
+
+
 
 
 
