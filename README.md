@@ -15,7 +15,6 @@ Access via: https://biomedical-and-bioinformatics-research-paper-search-app-app-
 
 
 
-https://github.com/user-attachments/assets/394519cb-3dc1-4ab8-9c41-e0c15bb5eb9d
 
 
 
